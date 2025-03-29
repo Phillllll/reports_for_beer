@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "1701OCM_Saving_Tracker_Dsahboard_035"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "7e9f1c10-fa17-4761-a450-336b15efdb68"
+  }
+}
